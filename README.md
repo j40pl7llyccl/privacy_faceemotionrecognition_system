@@ -46,24 +46,8 @@
 |新しい手法|69.283%|66.796%|2.379%|2.771%|
 
 
-
-
-
-
-
-Expw
-	Train 
-Accuracy	Validation Accuracy	Tain
-Loss	Validation
-Loss
-オリジナル	54.679%	55.547%	10.232%	6.476%
-新しい手法	69.283%	66.796%	2.379%	2.771%
-
-
-
-
 今後の展望： 
-データセットの拡充：より多様な背景と表情を含むデータセットに対するモデルの適応 性を検証します。
+データセットの拡充：より多様な背景と表情を含むデータセットに対するモデルの適応性を検証します。
 
 参考論文：
 [1]Shervin Minaee1 , Amirali Abdolrashidi2 1Expedia Group 2University of California, Riverside”Deep-Emotion: Facial Expression Recognition Using Attentional  Convolutional Network”2019.
