@@ -50,14 +50,15 @@
 データセットの拡充：より多様な背景と表情を含むデータセットに対するモデルの適応性を検証します。
 
 参考論文：
-[1]Shervin Minaee1 , Amirali Abdolrashidi2 1Expedia Group 2University of California, Riverside”Deep-Emotion: Facial Expression Recognition Using Attentional  Convolutional Network”2019.
-[2]Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun”Deep Residual Learning for Image Recognition”10 Dec 2015
-[3]Connor Shorten & Taghi M. Khoshgoftaar”A survey on Image Data Augmentation for 
-Deep Learning”Springer Link 2019
-[4]C. Dwork. Differential privacy. M. Bugliesi, B. Preneel, V. Sassone, and I. Wegener, (eds) Automata, Languages and Programming, 4052, 2006.
-[5]Zhang, Yulun, et al. "Deep fusion network for image completion." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
-[6]Opitz, Michael, Horst Bischof, and Georg Waltner. "Diverse Multi-model Fusion." Proceedings of the IEEE International Conference on Computer Vision Workshops. 2015.
-[7]Yang Xu, Zhixiong Li, Shuqing Wang, Weihua Li, T. Sarkodie-Gyan, Shizhe Feng”A hybrid deep-learning model for fault diagnosis of rolling bearings”7 Mar 2022.
-[8]Ashkan Yousefpour, Igor Shilov, Alexandre Sablayrolles, Davide Testuggine, Karthik Prasad, Mani Malek, John Nguyen, Sayan Ghosh, Akash Bharadwaj, Jessica Zhao, Graham Cormode, Ilya Mironov”Opacus: User-Friendly Differential Privacy Library in PyTorch”25 Sep 2021.
-[9]Ilya Loshchilov, Frank Hutter”Decoupled Weight Decay Regularization”14 Nov 2017.
-[10]Insight Centre for Data Analytics, NUI Galway Aylien Ltd.,Dublin. "An overview of gradient descent optimization algorithms"  2017.
+1. [1]Shervin Minaee1 , Amirali Abdolrashidi2 1Expedia Group 2University of California, Riverside”Deep-Emotion: Facial Expression Recognition Using Attentional  Convolutional Network”2019.
+1. [2]Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun”Deep Residual Learning for Image Recognition”10 Dec 2015
+1. [3]Connor Shorten & Taghi M. Khoshgoftaar”A survey on Image Data Augmentation for 
+1. Deep Learning”Springer Link 2019
+1. [4]C. Dwork. Differential privacy. M. Bugliesi, B. Preneel, V. Sassone, and I. Wegener, (eds) Automata, Languages and Programming, 4052, 2006.
+1. [5]Zhang, Yulun, et al. "Deep fusion network for image completion." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+1. [6]Opitz, Michael, Horst Bischof, and Georg Waltner. "Diverse Multi-model Fusion." Proceedings of the IEEE International Conference on Computer Vision Workshops. 2015.
+1. [7]Yang Xu, Zhixiong Li, Shuqing Wang, Weihua Li, T. Sarkodie-Gyan, Shizhe Feng”A hybrid deep-learning model for fault diagnosis of rolling bearings”7 Mar 2022.
+1. [8]Ashkan Yousefpour, Igor Shilov, Alexandre Sablayrolles, Davide Testuggine, Karthik Prasad, Mani Malek, John Nguyen, Sayan Ghosh, Akash Bharadwaj, Jessica Zhao, Graham Cormode, Ilya Mironov”Opacus: User-Friendly Differential Privacy Library in PyTorch”25 Sep 2021.
+1. [9]Ilya Loshchilov, Frank Hutter”Decoupled Weight Decay Regularization”14 Nov 2017.
+1. [10]Insight Centre for Data Analytics, NUI Galway Aylien Ltd.,Dublin. "An overview of gradient descent optimization algorithms"  2017.
+
