@@ -50,8 +50,14 @@
 |新しい手法|69.283%|66.796%|2.379%|2.771%|
 
 
-今後の展望： 
-データセットの拡充：より多様な背景と表情を含むデータセットに対するモデルの適応性を検証します。
+Reference
+If you use this library and love it, use this to cite it 🤗
+
+@misc{privacy_faceemotionrecognition_system,
+      title={privacy_faceemotionrecognition_system: A system that can detect the negative of face emotion recognition},
+      author={Liu Hsin Kuo},
+      year={2023},
+}
 
 参考論文：
 1. [1]Shervin Minaee1 , Amirali Abdolrashidi2 1Expedia Group 2University of California, Riverside”Deep-Emotion: Facial Expression Recognition Using Attentional  Convolutional Network”2019.
