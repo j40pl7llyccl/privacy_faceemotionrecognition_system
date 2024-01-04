@@ -23,7 +23,8 @@
 * プリプロセッシング：顔検出アルゴリズムを使用して顔領域を抽出し、モデルが学習に必要な特徴に集中できるようにしました。 
 * モデルトレーニング：2 段階のトレーニングプロセスを実施。初期段階では基本特徴の学習を行い、続いて差分プライバシーを適用してモデルを微調整しました。
   
-![image](https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/38145b4b-7fc6-40b0-86bc-e7ce9583adfd)
+![image](https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/71481316-5a89-48e5-97a8-f5f38b5a825f)
+
 
 ## 結果と評価： 
 * 精度：提案されたモデルは、基準モデルと比較して、顔表情認識の精度を顕著に向上させました。 
