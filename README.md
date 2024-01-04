@@ -10,7 +10,7 @@
 * **深層学習モデル**：畳み込みニューラルネットワーク（CNN）と残差ネットワーク （ResNet）のアーキテクチャを組み合わせ、深層学習を通じて顔表情の特徴を抽出します。
 ![image](https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/b9483151-fb36-4fd5-ba91-5d1143ab0815)
 
-![image](https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/9deda464-1cc0-4292-9b9b-e447aa294bca)
+
 
 
 * **差分プライバシー**：モデルのトレーニングプロセスにおいて、差分プライバシーを 採用し、トレーニングデータセット内の個別データポイントがモデルの出力に与え る影響を限定します。
