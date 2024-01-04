@@ -9,7 +9,7 @@
 本研究では、顔画像の中の個人識別情報を区別することなく感情を識別するために、以下の技術的方法を採用しました。 
 * **深層学習モデル**：畳み込みニューラルネットワーク（CNN）と残差ネットワーク （ResNet）のアーキテクチャを組み合わせ、深層学習を通じて顔表情の特徴を抽出します。
 <div style="text-align: center;">
-<img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/b9483151-fb36-4fd5-ba91-5d1143ab0815" alt="image" width="500" height="300">
+<img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/b9483151-fb36-4fd5-ba91-5d1143ab0815" alt="CNN Model" width="500" height="300">
 <p>Fig：CNN Model</p>
 </div>
 
