@@ -17,8 +17,8 @@
 
 * **差分プライバシー**：モデルのトレーニングプロセスにおいて、差分プライバシーを 採用し、トレーニングデータセット内の個別データポイントがモデルの出力に与え る影響を限定します。
 <p align="center">
-<img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/89047fe2-ec6f-474b-8a97-93a56e31703e" alt="Differential privacy" width="500" height="300">
-  <br>Fig2：Differential privacy
+  <img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/89047fe2-ec6f-474b-8a97-93a56e31703e" alt="Differential privacy" width="500" height="300">
+  <br>Fig2：Differential Privacy
 </p>
 
 * **データ拡張**：トレーニングの堅牢性を高めるために、ランダムな変換を適用しデータセットの多様性を増加させます。
@@ -28,7 +28,8 @@
 * プリプロセッシング：顔検出アルゴリズムを使用して顔領域を抽出し、モデルが学習に必要な特徴に集中できるようにしました。 
 * モデルトレーニング：2 段階のトレーニングプロセスを実施。初期段階では基本特徴の学習を行い、続いて差分プライバシーを適用してモデルを微調整しました。
 <p align="center">
-<img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/71481316-5a89-48e5-97a8-f5f38b5a825f" alt="image" width="500" height="300">
+  <img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/71481316-5a89-48e5-97a8-f5f38b5a825f" alt="experimental procedures" width="500" height="300">
+  <br>Fig3：Experimental Procedures
 </p>
 
 ## 結果と評価： 
