@@ -14,7 +14,8 @@
 
 
 * **差分プライバシー**：モデルのトレーニングプロセスにおいて、差分プライバシーを 採用し、トレーニングデータセット内の個別データポイントがモデルの出力に与え る影響を限定します。
-  ![image](https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/89047fe2-ec6f-474b-8a97-93a56e31703e)
+<img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/89047fe2-ec6f-474b-8a97-93a56e31703e" alt="image" width="300" height="200">
+
 
 * **データ拡張**：トレーニングの堅牢性を高めるために、ランダムな変換を適用しデータセットの多様性を増加させます。
   
