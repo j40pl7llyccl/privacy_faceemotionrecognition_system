@@ -8,8 +8,9 @@
 ## 技術方法： 
 本研究では、顔画像の中の個人識別情報を区別することなく感情を識別するために、以下の技術的方法を採用しました。 
 * **深層学習モデル**：畳み込みニューラルネットワーク（CNN）と残差ネットワーク （ResNet）のアーキテクチャを組み合わせ、深層学習を通じて顔表情の特徴を抽出します。
-![image](https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/b9483151-fb36-4fd5-ba91-5d1143ab0815)
-
+<p align="center">
+<img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/b9483151-fb36-4fd5-ba91-5d1143ab0815" alt="image" width="500" height="300">
+</p>
 
 
 
@@ -24,9 +25,9 @@
 * データセット：さまざまな顔表情と照明条件のデータを含む複数の公開顔表情データセットを使用しました。 
 * プリプロセッシング：顔検出アルゴリズムを使用して顔領域を抽出し、モデルが学習に必要な特徴に集中できるようにしました。 
 * モデルトレーニング：2 段階のトレーニングプロセスを実施。初期段階では基本特徴の学習を行い、続いて差分プライバシーを適用してモデルを微調整しました。
-  
-![image](https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/71481316-5a89-48e5-97a8-f5f38b5a825f)
-
+<p align="center">
+<img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/71481316-5a89-48e5-97a8-f5f38b5a825f" alt="image" width="500" height="300">
+</p>
 
 ## 結果と評価： 
 * 精度：提案されたモデルは、基準モデルと比較して、顔表情認識の精度を顕著に向上させました。 
