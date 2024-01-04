@@ -59,7 +59,9 @@
 
 
 Reference
-If you use this library and love it, use this to cite it 🤗
+If you use this model and love it, use this to cite it 🤗
+
+## Citation
 
 ```
 @misc{privacy_faceemotionrecognition_system,
