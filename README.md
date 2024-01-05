@@ -1,4 +1,4 @@
-<h1 align="center">プライバシー保護に配慮したネガティブな顔表情の解析 :✨</h1>
+<h1 align="center">Privacy-Conscious Analysis of Negative Facial Expressions:✨</h1>
 
 ## 研究の目的と背景: by liu hsin kuo
 本研究の主要な目的は、個人のプライバシーを保護しながら、ネガティブな表情を正確 
