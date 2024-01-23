@@ -15,7 +15,7 @@
   <br>Fig1：CNN Model
 </p>
 <p align="center">
-  <img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/21d86e71-9e3d-4dfc-845f-7c789861140c" alt="CNN Model" width="500" height="300">
+  <img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/21d86e71-9e3d-4dfc-845f-7c789861140c" alt="CNN Model" width="500" height="500">
   <br>Fig2:Combine Model Flow Chart
 </p>
 
