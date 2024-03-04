@@ -23,7 +23,8 @@
 
 * **差分プライバシー**：モデルのトレーニングプロセスにおいて、差分プライバシーを 採用し、トレーニングデータセット内の個別データポイントがモデルの出力に与え る影響を限定します。
 <p align="center">
-  <img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/89047fe2-ec6f-474b-8a97-93a56e31703e" alt="Differential privacy" width="500" height="300">
+  <img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/bdf6d075-8bdd-4d6b-806b-0b302602ddd5" alt="Differential privacy" width="500" height="300">
+
   <br>Fig3：Differential Privacy
 </p>
 
