@@ -91,7 +91,7 @@ Test Loss: 1.1879, Test Accuracy: 56.77%
 
 <p align="center">
   <img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/a7fd8412-7e7f-4f6a-91aa-af089108041e" alt="CNN Model" width="500" height="500">
-  <br>Fig5:Affectnet Confusion Matrix
+  <br>Fig6:Affectnet Confusion Matrix
 </p>
 
 これは、目に見えないデータに対するモデルの一般化能力を強化する必要がある可能性があることを示唆しています。
@@ -116,7 +116,7 @@ Test Loss: 0.8813, Test Accuracy: 65.85%
 
 <p align="center">
   <img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/733d6c9a-3429-4ab2-831e-6eca8de462b5" alt="CNN Model" width="500" height="500">
-  <br>Fig5:Affectnet Confusion Matrix
+  <br>Fig7:Affectnet Confusion Matrix
 </p>
 
 モデルのパフォーマンスは、さまざまな感情カテゴリーによって異なりました。 たとえば、悲しみの表現を認識するのに顕著な効果があることを示しています。
