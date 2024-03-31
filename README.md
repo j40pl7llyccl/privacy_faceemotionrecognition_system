@@ -121,8 +121,7 @@ Test Loss: 0.8813, Test Accuracy: 65.85%
 対照的に、嫌悪感と恐怖の認識性能は弱く、特に嫌悪感の再現率はわずか 14.84% でした。 これは、データセット内のサンプル分布が不均一であること、またはモデルによるこれらの式の学習が不十分であることに関連している可能性があります。
 
 
-Reference
-If you use this model and love it, use this to cite it 🤗
+
 
 ## Citation
 
