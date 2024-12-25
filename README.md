@@ -6,8 +6,8 @@
 然而，面部識別與個人隱私密切相關，因此，保護個人隱私也是一個重要的課題。
 
 ## 技術方法： 
-在本研究中，为了在不区分面部图像中的个人识别信息的情况下识别情绪，我们采用了以下技术方法。
-* **深層学習モデル**：我们结合了卷积神经网络（CNN）和残差网络（ResNet）的架构，通过深度学习提取面部表情的特征。
+在本研究中，為了在不區分臉部影像中的個人識別資訊的情況下識別情緒，我們採用了以下技術方法。
+* **深層学習モデル**：我們結合了卷積神經網路（CNN）和殘差網路（ResNet）的架構，透過深度學習提取臉部表情的特徵。
 <p align="center">
   <img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/b9483151-fb36-4fd5-ba91-5d1143ab0815" alt="CNN Model" width="500" height="300">
   <br>Fig1：CNN Model
@@ -19,13 +19,13 @@
 
 
 
-* **差分プライバシー**：在模型的训练过程中，我们采用了差分隐私技术，限制训练数据集中各个数据点对模型输出的影响。
+* **差分プライバシー**：在模型的訓練過程中，我們採用了差分隱私技術，限制訓練資料集中各個資料點對模型輸出的影響。
 <p align="center">
   <img src="https://github.com/j40pl7llyccl/privacy_faceemotionrecognition_system/assets/24970006/ddd080b3-5cbe-485b-9d75-54aa510d6866" alt="Differential privacy" width="500" height="300">
   <br>Fig3：Differential Privacy
 </p>
 
-* **データ拡張**：为了提高训练的鲁棒性，我们应用了随机变换，以增加数据集的多样性。
+* **データ拡張**：為了提高訓練的穩健性，我們應用了隨機變換，以增加資料集的多樣性。
   
 ## 実験設計と方法論： 
 * 数据集：使用了多个包含各种面部表情和光照条件的公开面部表情数据集。
